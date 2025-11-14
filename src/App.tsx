@@ -238,7 +238,7 @@ function App() {
 
         <div className="backCard" id="contactMeDiv" data-aos="flip-right">
             <h2>⋆ 𖤓 Contact Me! ⋆˚࿔</h2>
-            <p>Feel free to email me at <a className="emailLink" href="mailto:rastogim2948@gmail.com"> rastogim2948@gmail.com</a> :)</p>
+            <p>Feel free to email me at <a className="emailLink" href="mailto:rastogim2948@gmail.com"> here</a>. :)</p>
         </div>
       </div>
     </>
